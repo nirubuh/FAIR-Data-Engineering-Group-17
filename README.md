@@ -1,11 +1,11 @@
 # FAIR-Data-Engineering-Group-17
 
-This repository consists of the data, reconciled FAIRified data and the metadata of a [dataset] (https://www.kaggle.com/datasets/nilimajauhari/glassdoor-analyze-gender-pay-gap/data) containing data collected from the Glassdoor website regarding the remuneration of various employees based on gender, seniority, education, department, performance evaluation etc.
+This repository consists of the data, reconciled FAIRified data and the metadata of the dataset (https://www.kaggle.com/datasets/nilimajauhari/glassdoor-analyze-gender-pay-gap/data) containing data collected from the Glassdoor website regarding the remuneration of various employees based on gender, seniority, education, department, performance evaluation etc.
 
 ## Repository contents
 
 ### `data/` 
-- **Glassdoor-Gender-Pay-Gap.csv** : contains the raw data taqken directly from kaggle.
+- **Glassdoor-Gender-Pay-Gap.csv** : contains the raw data taken directly from kaggle.
 - **Glassdoor-Gender-Pay-Gap-enriched.csv** : contains the reconciled data after matching its elements with its appropriate wikibase counterparts.
 
 ### `metadata/`
