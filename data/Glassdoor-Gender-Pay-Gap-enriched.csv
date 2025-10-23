@@ -1,0 +1,1001 @@
+JobTitle,JobTitleURI,Gender,Age,PerfEval,Education,Dept,Seniority,BasePay,Bonus
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,18,5,college,operations management,2,42363,9938
+software developer,https://www.wikidata.org/wiki/Q183888,Male,21,5,college,management,5,108476,11128
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,19,4,doctorate,administration,5,90208,9268
+software developer,https://www.wikidata.org/wiki/Q183888,Male,20,5,master's degree,marketing,4,108080,10154
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,26,5,master's degree,engineer,5,99464,9319
+information technology,https://www.wikidata.org/wiki/Q11661,Female,20,5,doctorate,operations management,4,70890,10126
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,20,5,college,marketing,4,67585,10541
+software developer,https://www.wikidata.org/wiki/Q183888,Male,18,4,doctorate,engineer,5,97523,10240
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,33,5,high school,engineer,5,112976,9836
+salesperson,https://www.wikidata.org/wiki/Q685433,Female,35,5,college,engineer,5,106524,9941
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,24,5,doctorate,engineer,5,102261,10212
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,18,5,college,management,3,62759,10124
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,19,5,college,marketing,3,84007,8990
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,30,5,master's degree,government administration,5,86220,9583
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,35,5,doctorate,operations management,4,95584,9745
+marketing,https://www.wikidata.org/wiki/Q39809,Female,27,5,doctorate,management,3,73357,10334
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,23,5,doctorate,government administration,5,88422,10768
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,24,5,college,government administration,5,99545,9949
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,21,5,high school,engineer,5,90386,9461
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,30,5,college,engineer,5,92067,9838
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Male,36,5,doctorate,engineer,5,108446,9210
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,24,5,doctorate,marketing,3,83323,9329
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Male,24,5,doctorate,marketing,3,85205,9792
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,35,5,college,management,1,72038,9031
+software developer,https://www.wikidata.org/wiki/Q183888,Male,21,4,doctorate,engineer,5,132823,9625
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,26,5,college,engineer,2,71182,10015
+software developer,https://www.wikidata.org/wiki/Q183888,Male,19,5,master's degree,government administration,4,100305,9618
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,35,5,doctorate,management,3,88566,9469
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Male,34,5,doctorate,engineer,4,104271,10177
+information technology,https://www.wikidata.org/wiki/Q11661,Female,38,5,college,government administration,5,112392,10504
+software developer,https://www.wikidata.org/wiki/Q183888,Male,20,5,master's degree,management,2,66359,10137
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,35,5,master's degree,management,5,103007,10512
+marketing,https://www.wikidata.org/wiki/Q39809,Female,26,5,doctorate,operations management,4,80306,9233
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,22,5,high school,engineer,3,74523,9972
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,45,5,doctorate,management,5,113252,10139
+software developer,https://www.wikidata.org/wiki/Q183888,Male,27,5,doctorate,management,4,96040,10050
+software developer,https://www.wikidata.org/wiki/Q183888,Male,21,5,high school,management,4,91674,9780
+software developer,https://www.wikidata.org/wiki/Q183888,Male,31,5,high school,operations management,3,92928,9094
+information technology,https://www.wikidata.org/wiki/Q11661,Female,33,5,college,management,4,84638,9409
+information technology,https://www.wikidata.org/wiki/Q11661,Male,19,5,college,government administration,4,78986,9023
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,29,5,doctorate,government administration,5,96355,9784
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,32,5,doctorate,management,3,87121,8703
+software developer,https://www.wikidata.org/wiki/Q183888,Male,31,5,doctorate,marketing,2,88724,8949
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Male,22,5,master's degree,engineer,2,58219,9868
+software developer,https://www.wikidata.org/wiki/Q183888,Male,25,5,master's degree,marketing,5,119024,11293
+software developer,https://www.wikidata.org/wiki/Q183888,Male,22,5,master's degree,management,3,81503,9729
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,21,5,doctorate,operations management,3,70643,10033
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,26,5,doctorate,marketing,3,74167,10346
+marketing,https://www.wikidata.org/wiki/Q39809,Male,21,5,college,management,5,86886,9424
+information technology,https://www.wikidata.org/wiki/Q11661,Female,22,5,high school,marketing,4,102120,10215
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,18,4,master's degree,operations management,5,90780,9353
+software developer,https://www.wikidata.org/wiki/Q183888,Male,18,4,master's degree,operations management,4,89474,9104
+marketing,https://www.wikidata.org/wiki/Q39809,Female,35,5,doctorate,engineer,5,97376,9564
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,33,5,master's degree,marketing,2,89415,9654
+software developer,https://www.wikidata.org/wiki/Q183888,Female,22,4,master's degree,operations management,3,88037,8949
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,24,4,college,government administration,4,71105,8623
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,31,5,high school,engineer,2,62692,8886
+software developer,https://www.wikidata.org/wiki/Q183888,Male,40,5,doctorate,management,4,112466,9493
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,49,5,college,operations management,3,71193,8331
+marketing,https://www.wikidata.org/wiki/Q39809,Female,20,5,master's degree,government administration,4,76286,9479
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,18,5,doctorate,engineer,4,97328,9874
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,34,5,master's degree,management,3,86766,9841
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,41,5,college,operations management,2,82453,9564
+software developer,https://www.wikidata.org/wiki/Q183888,Male,19,5,doctorate,government administration,3,88814,10153
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Male,31,5,college,management,4,82832,9958
+salesperson,https://www.wikidata.org/wiki/Q685433,Female,33,5,high school,engineer,3,83034,8841
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,53,5,college,engineer,5,127085,9687
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,24,5,high school,government administration,1,66168,9242
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,18,5,doctorate,government administration,4,59212,10209
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,18,5,high school,operations management,2,55189,9405
+manager,https://www.wikidata.org/wiki/Q2462658,Male,25,5,college,engineer,5,131311,11067
+salesperson,https://www.wikidata.org/wiki/Q685433,Female,31,5,college,management,1,52633,9516
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,31,4,doctorate,operations management,5,101154,10324
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,42,5,college,engineer,5,113640,8762
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,22,4,high school,management,2,50401,8590
+marketing,https://www.wikidata.org/wiki/Q39809,Female,23,5,doctorate,government administration,3,46263,9432
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,36,4,college,management,3,74938,8234
+marketing,https://www.wikidata.org/wiki/Q39809,Female,39,5,college,marketing,5,103384,9168
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,39,5,college,engineer,2,77584,9798
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,23,5,master's degree,management,3,83031,10240
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,29,5,master's degree,engineer,5,111019,10042
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,25,3,master's degree,engineer,4,80192,8747
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Male,21,5,doctorate,management,1,48755,9931
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Male,28,5,high school,engineer,2,59044,9368
+manager,https://www.wikidata.org/wiki/Q2462658,Male,29,4,doctorate,engineer,5,146615,10173
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,32,5,doctorate,engineer,1,46693,8457
+information technology,https://www.wikidata.org/wiki/Q11661,Female,48,5,doctorate,operations management,3,88152,8857
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,38,5,master's degree,government administration,5,127156,9979
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,31,5,doctorate,engineer,1,69462,8872
+manager,https://www.wikidata.org/wiki/Q2462658,Male,19,4,doctorate,marketing,5,119162,9395
+software developer,https://www.wikidata.org/wiki/Q183888,Male,26,5,doctorate,operations management,2,68466,8384
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,36,5,master's degree,government administration,3,92622,8509
+marketing,https://www.wikidata.org/wiki/Q39809,Female,34,5,master's degree,engineer,1,51331,9130
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Male,49,5,high school,marketing,4,109419,8375
+software developer,https://www.wikidata.org/wiki/Q183888,Male,18,5,college,operations management,3,80355,9945
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,21,4,master's degree,marketing,4,77032,8725
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,47,5,high school,marketing,5,146190,8961
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,22,4,master's degree,government administration,4,96045,9129
+software developer,https://www.wikidata.org/wiki/Q183888,Male,29,5,high school,management,1,82534,8914
+information technology,https://www.wikidata.org/wiki/Q11661,Male,55,5,college,management,5,127769,8802
+marketing,https://www.wikidata.org/wiki/Q39809,Female,34,5,high school,marketing,5,96061,9093
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,48,5,college,management,5,111342,10122
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,43,5,doctorate,management,3,117554,8369
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,30,5,high school,engineer,5,109369,10052
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,25,4,master's degree,operations management,4,92358,9611
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,21,4,master's degree,operations management,4,91978,8647
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,28,5,doctorate,government administration,1,52290,9330
+information technology,https://www.wikidata.org/wiki/Q11661,Male,18,5,high school,engineer,1,47036,9130
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Male,46,5,doctorate,marketing,1,76517,8502
+marketing,https://www.wikidata.org/wiki/Q39809,Female,29,4,master's degree,government administration,5,89822,8818
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Male,32,4,doctorate,engineer,4,90368,8215
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,26,5,college,engineer,4,106194,9421
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,51,5,high school,management,3,87684,8645
+marketing,https://www.wikidata.org/wiki/Q39809,Female,40,5,master's degree,government administration,3,62040,8056
+salesperson,https://www.wikidata.org/wiki/Q685433,Female,52,5,master's degree,engineer,2,84132,7204
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,29,4,master's degree,government administration,4,88047,8459
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,37,5,master's degree,government administration,2,65012,8357
+marketing,https://www.wikidata.org/wiki/Q39809,Female,23,4,master's degree,engineer,4,59251,8596
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,18,4,doctorate,operations management,3,78462,8743
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Male,40,5,college,management,2,97414,8833
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,18,4,master's degree,government administration,2,42722,8515
+marketing,https://www.wikidata.org/wiki/Q39809,Female,26,4,college,management,3,63695,8897
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,51,5,doctorate,operations management,4,110731,8643
+software developer,https://www.wikidata.org/wiki/Q183888,Male,54,5,doctorate,government administration,4,125572,8245
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Male,49,5,master's degree,operations management,2,72754,8014
+information technology,https://www.wikidata.org/wiki/Q11661,Female,26,5,college,government administration,2,53956,9454
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,58,5,high school,engineer,5,135013,8972
+information technology,https://www.wikidata.org/wiki/Q11661,Female,49,5,college,management,3,108495,8668
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,27,4,high school,government administration,4,87608,7511
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,38,5,college,government administration,5,101173,9255
+information technology,https://www.wikidata.org/wiki/Q11661,Male,53,5,doctorate,management,5,126828,9310
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,49,5,high school,engineer,4,102716,8290
+marketing,https://www.wikidata.org/wiki/Q39809,Male,26,4,high school,engineer,5,77793,8700
+marketing,https://www.wikidata.org/wiki/Q39809,Female,44,5,high school,marketing,1,57469,7539
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,33,5,master's degree,management,3,83758,8498
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,22,5,doctorate,government administration,1,40187,8549
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,41,5,master's degree,engineer,3,98531,6855
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,26,4,college,operations management,4,104435,7802
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,29,5,high school,government administration,1,67617,9075
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,24,4,high school,government administration,5,91049,10375
+manager,https://www.wikidata.org/wiki/Q2462658,Female,32,5,doctorate,operations management,1,98519,8943
+marketing,https://www.wikidata.org/wiki/Q39809,Female,36,4,high school,operations management,5,91713,7627
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,41,4,master's degree,engineer,3,88994,8873
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,44,5,master's degree,government administration,4,119381,9345
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,43,5,high school,marketing,5,113180,9089
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Male,48,5,doctorate,management,2,68639,9553
+software developer,https://www.wikidata.org/wiki/Q183888,Female,28,3,doctorate,engineer,4,103763,8383
+software developer,https://www.wikidata.org/wiki/Q183888,Male,40,5,college,management,1,68295,7902
+manager,https://www.wikidata.org/wiki/Q2462658,Male,21,4,high school,engineer,3,103107,9036
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,19,4,college,marketing,2,64844,9042
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,61,5,doctorate,marketing,4,129132,8472
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,57,5,high school,engineer,3,93470,8578
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,28,4,master's degree,government administration,5,97625,7985
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,52,5,college,government administration,1,66529,7067
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,48,5,master's degree,management,1,100115,7679
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,57,5,doctorate,government administration,2,86423,8058
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,30,4,master's degree,marketing,5,115165,8841
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,53,5,master's degree,engineer,5,133495,8552
+marketing,https://www.wikidata.org/wiki/Q39809,Male,47,5,master's degree,operations management,3,86516,8049
+information technology,https://www.wikidata.org/wiki/Q11661,Male,18,4,master's degree,government administration,4,69855,8347
+salesperson,https://www.wikidata.org/wiki/Q685433,Female,35,4,doctorate,marketing,1,84844,7205
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,51,5,college,operations management,3,108241,8602
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,51,5,high school,marketing,3,106478,8744
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,38,4,college,management,5,114421,7444
+software developer,https://www.wikidata.org/wiki/Q183888,Male,24,4,master's degree,management,1,79208,8602
+software developer,https://www.wikidata.org/wiki/Q183888,Male,49,5,master's degree,government administration,5,142105,9653
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,22,5,high school,government administration,1,57783,9306
+marketing,https://www.wikidata.org/wiki/Q39809,Female,33,5,high school,operations management,2,46903,8130
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,36,5,master's degree,operations management,1,71858,7475
+marketing,https://www.wikidata.org/wiki/Q39809,Female,27,5,high school,management,1,44325,8867
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Male,39,5,high school,engineer,4,100183,8832
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,19,4,master's degree,marketing,1,61000,8872
+software developer,https://www.wikidata.org/wiki/Q183888,Male,59,5,master's degree,engineer,1,109623,6897
+marketing,https://www.wikidata.org/wiki/Q39809,Female,20,3,doctorate,marketing,5,60070,8273
+information technology,https://www.wikidata.org/wiki/Q11661,Female,29,4,master's degree,management,3,72542,8109
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Male,54,5,doctorate,government administration,4,110049,8928
+information technology,https://www.wikidata.org/wiki/Q11661,Female,30,4,master's degree,engineer,2,80981,8201
+information technology,https://www.wikidata.org/wiki/Q11661,Female,42,5,college,operations management,2,83499,8950
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,42,4,master's degree,management,4,106788,8974
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,50,4,master's degree,engineer,5,108922,8477
+information technology,https://www.wikidata.org/wiki/Q11661,Female,43,5,doctorate,government administration,5,127062,9619
+software developer,https://www.wikidata.org/wiki/Q183888,Male,64,5,college,marketing,4,120593,7573
+manager,https://www.wikidata.org/wiki/Q2462658,Male,23,4,doctorate,government administration,1,90685,8816
+marketing,https://www.wikidata.org/wiki/Q39809,Female,33,5,high school,engineer,1,49830,8543
+software developer,https://www.wikidata.org/wiki/Q183888,Male,39,4,high school,marketing,4,106896,7918
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,58,5,doctorate,marketing,2,129425,7524
+marketing,https://www.wikidata.org/wiki/Q39809,Female,24,3,master's degree,operations management,5,82338,7414
+marketing,https://www.wikidata.org/wiki/Q39809,Female,37,4,doctorate,government administration,3,86036,7567
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,53,5,high school,operations management,2,93073,8188
+software developer,https://www.wikidata.org/wiki/Q183888,Male,33,5,doctorate,government administration,2,87352,8435
+software developer,https://www.wikidata.org/wiki/Q183888,Male,56,5,doctorate,government administration,5,139760,9229
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,52,5,high school,engineer,2,100070,7169
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Male,40,5,master's degree,marketing,4,102815,9090
+software developer,https://www.wikidata.org/wiki/Q183888,Male,43,4,doctorate,management,5,101262,7794
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,19,5,high school,operations management,2,58054,9585
+salesperson,https://www.wikidata.org/wiki/Q685433,Female,53,4,master's degree,operations management,5,129609,7392
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,44,5,master's degree,government administration,2,100091,9185
+manager,https://www.wikidata.org/wiki/Q2462658,Male,23,4,master's degree,marketing,3,103479,7850
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,51,5,college,operations management,1,72827,7285
+information technology,https://www.wikidata.org/wiki/Q11661,Male,20,4,doctorate,engineer,2,74073,8509
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,47,5,college,government administration,2,64852,8023
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,49,5,college,management,4,106887,8347
+software developer,https://www.wikidata.org/wiki/Q183888,Male,26,4,college,government administration,2,77309,7957
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,44,4,high school,government administration,4,100416,7513
+software developer,https://www.wikidata.org/wiki/Q183888,Male,18,3,master's degree,engineer,2,88482,7385
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,32,4,college,management,4,78623,9012
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,18,4,high school,management,4,80135,9007
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,63,5,high school,marketing,2,106158,7654
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,37,4,college,engineer,4,89411,9522
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,22,4,master's degree,marketing,2,57398,7827
+marketing,https://www.wikidata.org/wiki/Q39809,Female,64,5,doctorate,marketing,2,95687,7279
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,39,4,doctorate,operations management,5,120294,8090
+manager,https://www.wikidata.org/wiki/Q2462658,Male,20,4,college,marketing,2,107140,8199
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,39,5,college,operations management,1,76773,7278
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,37,4,master's degree,engineer,2,98010,8210
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,39,4,doctorate,management,3,91099,8306
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,29,4,high school,management,4,89559,8338
+software developer,https://www.wikidata.org/wiki/Q183888,Male,58,5,high school,management,3,120156,7200
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Male,38,5,doctorate,engineer,4,102966,8978
+marketing,https://www.wikidata.org/wiki/Q39809,Female,64,5,doctorate,marketing,5,128970,7346
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,51,4,high school,management,5,121376,7832
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,53,5,master's degree,government administration,3,112941,7404
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,46,5,high school,engineer,4,102736,9736
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,28,4,high school,management,1,64008,7185
+information technology,https://www.wikidata.org/wiki/Q11661,Male,52,5,master's degree,engineer,1,90024,7350
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,48,4,master's degree,management,5,129406,7280
+information technology,https://www.wikidata.org/wiki/Q11661,Female,34,5,college,operations management,1,54245,8245
+marketing,https://www.wikidata.org/wiki/Q39809,Female,27,4,high school,government administration,5,67530,9311
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,18,4,high school,marketing,4,75506,9289
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,31,4,college,engineer,2,81826,8375
+software developer,https://www.wikidata.org/wiki/Q183888,Female,27,4,high school,operations management,1,65711,7789
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,29,3,master's degree,management,2,61164,6346
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,41,5,master's degree,government administration,1,73801,8317
+manager,https://www.wikidata.org/wiki/Q2462658,Male,62,5,college,government administration,5,157410,7840
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,23,4,high school,operations management,1,50601,7351
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,29,4,high school,engineer,3,65907,7668
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,38,5,high school,marketing,2,80937,8335
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Male,34,4,college,government administration,5,90330,7022
+salesperson,https://www.wikidata.org/wiki/Q685433,Female,62,5,college,operations management,2,93268,7657
+information technology,https://www.wikidata.org/wiki/Q11661,Male,40,4,college,government administration,5,109345,7791
+software developer,https://www.wikidata.org/wiki/Q183888,Male,27,4,master's degree,engineer,1,66084,7769
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,35,4,doctorate,operations management,5,98900,7960
+information technology,https://www.wikidata.org/wiki/Q11661,Male,19,4,college,engineer,3,78113,9335
+software developer,https://www.wikidata.org/wiki/Q183888,Male,36,4,master's degree,engineer,5,130826,9694
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,23,3,high school,engineer,3,85928,7229
+information technology,https://www.wikidata.org/wiki/Q11661,Male,43,5,college,operations management,4,98515,9090
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,48,4,college,government administration,4,103133,7793
+marketing,https://www.wikidata.org/wiki/Q39809,Female,20,4,college,marketing,4,69254,8609
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,27,4,college,marketing,5,114680,8472
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Male,25,3,doctorate,engineer,5,92687,7634
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,21,3,master's degree,engineer,4,72301,8391
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,24,4,master's degree,government administration,1,67749,8517
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,61,5,master's degree,management,2,97000,7757
+manager,https://www.wikidata.org/wiki/Q2462658,Male,52,5,high school,operations management,2,104526,7253
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,26,4,high school,management,3,80494,8449
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,30,4,high school,operations management,2,40341,7320
+software developer,https://www.wikidata.org/wiki/Q183888,Male,29,4,high school,engineer,1,74316,8761
+information technology,https://www.wikidata.org/wiki/Q11661,Female,46,5,doctorate,marketing,3,102247,8307
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Male,49,4,college,marketing,5,104657,6839
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,37,3,high school,engineer,5,92722,8010
+salesperson,https://www.wikidata.org/wiki/Q685433,Female,51,5,master's degree,management,1,72120,9084
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,28,4,master's degree,operations management,1,62260,7740
+manager,https://www.wikidata.org/wiki/Q2462658,Male,45,5,high school,engineer,3,123422,8894
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Male,48,5,college,marketing,1,62097,7075
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,53,5,high school,management,2,102910,8335
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,29,4,high school,engineer,3,84021,9111
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,19,4,high school,operations management,1,37026,8636
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Male,18,3,doctorate,operations management,3,56318,8407
+information technology,https://www.wikidata.org/wiki/Q11661,Male,28,4,high school,operations management,3,64958,7910
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,31,4,high school,operations management,2,55954,7999
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,58,4,doctorate,marketing,3,108820,7776
+information technology,https://www.wikidata.org/wiki/Q11661,Female,41,5,high school,operations management,3,100014,8621
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Male,36,4,doctorate,operations management,3,88213,8581
+salesperson,https://www.wikidata.org/wiki/Q685433,Female,34,3,high school,marketing,4,108288,7491
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Male,56,5,master's degree,marketing,5,100859,8388
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,30,4,master's degree,government administration,5,114007,9248
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Male,37,4,high school,management,3,83025,8105
+information technology,https://www.wikidata.org/wiki/Q11661,Male,28,4,high school,government administration,5,95964,9147
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,47,4,college,government administration,2,94973,7885
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,44,4,high school,marketing,4,102108,8339
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,24,4,master's degree,marketing,2,60736,7873
+information technology,https://www.wikidata.org/wiki/Q11661,Male,47,5,doctorate,operations management,1,82126,6971
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,33,5,master's degree,operations management,1,69878,8389
+information technology,https://www.wikidata.org/wiki/Q11661,Female,22,4,master's degree,marketing,1,37780,8443
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,57,4,master's degree,management,4,132873,7266
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,20,4,high school,operations management,2,65164,7827
+information technology,https://www.wikidata.org/wiki/Q11661,Female,65,5,master's degree,government administration,4,121210,7949
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,49,4,doctorate,engineer,2,95169,7415
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,19,3,doctorate,management,4,94492,8209
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,39,4,doctorate,operations management,2,75901,7402
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,33,3,master's degree,operations management,5,100463,6332
+salesperson,https://www.wikidata.org/wiki/Q685433,Female,40,4,master's degree,operations management,5,92276,9551
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,21,2,college,engineer,5,92458,6966
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,46,4,high school,government administration,4,88571,7464
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,39,4,doctorate,management,3,87409,7168
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Male,58,5,college,marketing,4,133927,8278
+manager,https://www.wikidata.org/wiki/Q2462658,Male,33,4,master's degree,marketing,1,90482,7094
+marketing,https://www.wikidata.org/wiki/Q39809,Female,27,4,high school,marketing,4,87435,9230
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,65,5,high school,operations management,4,130251,7750
+manager,https://www.wikidata.org/wiki/Q2462658,Female,34,3,master's degree,management,2,106560,7257
+software developer,https://www.wikidata.org/wiki/Q183888,Male,56,5,college,operations management,3,107366,7774
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,34,4,high school,marketing,1,56172,7739
+marketing,https://www.wikidata.org/wiki/Q39809,Female,35,4,master's degree,marketing,2,58807,7316
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,49,4,master's degree,marketing,4,126626,7144
+manager,https://www.wikidata.org/wiki/Q2462658,Female,24,3,doctorate,marketing,3,104202,8456
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Male,39,4,doctorate,operations management,3,77793,8093
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Male,45,4,high school,operations management,2,84930,6914
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Male,32,3,master's degree,engineer,2,69367,6378
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,65,5,master's degree,operations management,5,116751,8505
+software developer,https://www.wikidata.org/wiki/Q183888,Male,52,4,master's degree,government administration,5,139841,7641
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,52,4,college,government administration,2,78750,6666
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,38,3,college,government administration,5,93306,8265
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,19,4,master's degree,operations management,2,60892,8462
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,20,2,master's degree,engineer,5,99543,6111
+salesperson,https://www.wikidata.org/wiki/Q685433,Female,29,3,doctorate,operations management,2,56745,6495
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,29,4,college,operations management,1,59458,7939
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,18,2,master's degree,marketing,4,71824,6397
+software developer,https://www.wikidata.org/wiki/Q183888,Male,64,5,high school,operations management,2,111903,6824
+information technology,https://www.wikidata.org/wiki/Q11661,Male,55,5,college,marketing,3,104361,7813
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,22,2,high school,marketing,5,91568,7139
+software developer,https://www.wikidata.org/wiki/Q183888,Male,59,4,master's degree,engineer,4,155834,7101
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,30,5,master's degree,marketing,1,83620,7864
+marketing,https://www.wikidata.org/wiki/Q39809,Female,50,5,doctorate,government administration,1,81995,7840
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,27,4,doctorate,marketing,1,66125,8465
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Male,27,3,college,engineer,5,89678,7778
+salesperson,https://www.wikidata.org/wiki/Q685433,Female,57,5,master's degree,operations management,3,98321,8980
+manager,https://www.wikidata.org/wiki/Q2462658,Male,48,4,college,management,1,109346,7730
+manager,https://www.wikidata.org/wiki/Q2462658,Female,62,4,master's degree,marketing,4,155203,7808
+information technology,https://www.wikidata.org/wiki/Q11661,Male,64,5,doctorate,management,2,98100,7460
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,29,3,high school,management,4,73306,7765
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Male,40,5,college,engineer,2,68797,7817
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,58,4,college,management,4,120154,6751
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,22,3,college,marketing,4,76865,8145
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,59,4,doctorate,management,4,125770,8013
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,36,4,high school,government administration,5,119931,8400
+marketing,https://www.wikidata.org/wiki/Q39809,Female,55,4,master's degree,operations management,1,71794,6685
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,54,4,college,management,2,87998,7028
+software developer,https://www.wikidata.org/wiki/Q183888,Male,63,4,high school,government administration,5,140445,7905
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Male,18,2,college,government administration,5,85306,7735
+salesperson,https://www.wikidata.org/wiki/Q685433,Female,31,3,high school,operations management,3,77275,7089
+manager,https://www.wikidata.org/wiki/Q2462658,Male,48,4,doctorate,marketing,4,143887,7622
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,58,4,high school,marketing,5,130720,7246
+software developer,https://www.wikidata.org/wiki/Q183888,Female,41,4,doctorate,marketing,1,86675,7947
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,22,3,college,operations management,2,56954,7550
+information technology,https://www.wikidata.org/wiki/Q11661,Male,63,5,master's degree,operations management,5,133472,8688
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,23,3,master's degree,government administration,1,62753,7242
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,63,5,doctorate,operations management,4,128173,8360
+software developer,https://www.wikidata.org/wiki/Q183888,Female,28,3,college,engineer,5,112491,8727
+marketing,https://www.wikidata.org/wiki/Q39809,Female,22,4,doctorate,operations management,1,36548,8090
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,62,4,doctorate,engineer,1,88781,6413
+software developer,https://www.wikidata.org/wiki/Q183888,Male,65,4,high school,management,5,157852,6669
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,51,4,doctorate,operations management,4,113730,6578
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Male,57,5,college,management,1,68403,6893
+manager,https://www.wikidata.org/wiki/Q2462658,Male,59,4,doctorate,marketing,5,176789,6773
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,45,3,master's degree,marketing,5,129226,6912
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,24,3,college,engineer,2,59399,6692
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,61,5,doctorate,management,1,102473,8468
+manager,https://www.wikidata.org/wiki/Q2462658,Female,60,4,doctorate,management,3,160614,8354
+salesperson,https://www.wikidata.org/wiki/Q685433,Female,28,3,doctorate,marketing,3,89570,7411
+marketing,https://www.wikidata.org/wiki/Q39809,Female,41,4,college,marketing,3,73989,8780
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,35,4,master's degree,management,2,67762,7449
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,35,4,college,government administration,4,90307,7663
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,38,3,master's degree,management,2,77751,6554
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,57,4,high school,management,1,87150,6814
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,19,2,college,marketing,2,79291,5000
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,55,5,master's degree,engineer,1,79144,8328
+manager,https://www.wikidata.org/wiki/Q2462658,Male,62,5,doctorate,engineer,3,150467,8100
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,31,3,master's degree,engineer,2,57070,6615
+marketing,https://www.wikidata.org/wiki/Q39809,Female,49,4,college,marketing,4,102201,7640
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Male,37,4,college,engineer,3,70088,8244
+marketing,https://www.wikidata.org/wiki/Q39809,Female,24,3,doctorate,operations management,4,57782,7144
+manager,https://www.wikidata.org/wiki/Q2462658,Male,32,3,high school,operations management,4,117629,6291
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,28,3,master's degree,government administration,5,118653,7036
+marketing,https://www.wikidata.org/wiki/Q39809,Female,38,2,high school,management,5,71772,5764
+software developer,https://www.wikidata.org/wiki/Q183888,Male,65,5,master's degree,marketing,1,134758,7500
+marketing,https://www.wikidata.org/wiki/Q39809,Female,53,5,college,government administration,1,66438,6935
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Male,46,3,high school,operations management,4,87134,6184
+marketing,https://www.wikidata.org/wiki/Q39809,Female,57,4,college,operations management,3,79674,6993
+marketing,https://www.wikidata.org/wiki/Q39809,Female,45,3,college,engineer,4,85161,6682
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,34,2,doctorate,management,5,114479,6700
+marketing,https://www.wikidata.org/wiki/Q39809,Male,25,3,college,operations management,4,65547,6530
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,33,3,high school,government administration,3,71946,6386
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,64,5,high school,operations management,3,96777,7736
+marketing,https://www.wikidata.org/wiki/Q39809,Female,23,3,doctorate,government administration,3,62054,6955
+software developer,https://www.wikidata.org/wiki/Q183888,Male,26,3,high school,marketing,2,61527,6345
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,24,3,high school,management,1,64624,8253
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Male,49,4,master's degree,government administration,5,118629,6740
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,19,2,doctorate,management,5,80171,6454
+salesperson,https://www.wikidata.org/wiki/Q685433,Female,47,3,college,government administration,4,105410,6363
+software developer,https://www.wikidata.org/wiki/Q183888,Male,36,4,doctorate,management,3,112134,8587
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,42,3,master's degree,engineer,1,90005,6631
+marketing,https://www.wikidata.org/wiki/Q39809,Female,50,5,high school,operations management,1,70374,7466
+manager,https://www.wikidata.org/wiki/Q2462658,Male,21,2,college,government administration,5,121682,7189
+marketing,https://www.wikidata.org/wiki/Q39809,Female,49,4,doctorate,operations management,5,104355,7555
+information technology,https://www.wikidata.org/wiki/Q11661,Female,49,4,college,engineer,1,75811,5520
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,48,3,master's degree,engineer,5,113544,6839
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,22,2,master's degree,operations management,4,107025,6577
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,20,3,doctorate,operations management,3,78564,7875
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,47,5,college,operations management,3,91905,7614
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,60,5,high school,engineer,4,121728,7932
+marketing,https://www.wikidata.org/wiki/Q39809,Male,27,4,college,management,1,54817,6519
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,20,3,college,operations management,1,37898,6448
+information technology,https://www.wikidata.org/wiki/Q11661,Male,59,5,doctorate,operations management,1,79544,6760
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,20,3,high school,engineer,1,40056,7632
+information technology,https://www.wikidata.org/wiki/Q11661,Female,45,4,college,operations management,2,70846,7404
+marketing,https://www.wikidata.org/wiki/Q39809,Female,34,3,high school,marketing,5,79707,7196
+software developer,https://www.wikidata.org/wiki/Q183888,Male,59,4,high school,operations management,4,124817,7268
+manager,https://www.wikidata.org/wiki/Q2462658,Male,53,4,college,management,1,123114,6946
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,20,3,high school,operations management,3,62377,6999
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,28,3,master's degree,marketing,3,82850,5794
+information technology,https://www.wikidata.org/wiki/Q11661,Female,38,4,high school,marketing,2,75932,7003
+manager,https://www.wikidata.org/wiki/Q2462658,Male,43,3,doctorate,management,2,121949,6739
+marketing,https://www.wikidata.org/wiki/Q39809,Female,36,3,doctorate,marketing,3,82755,7325
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,45,3,doctorate,government administration,5,122037,8147
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,19,2,master's degree,government administration,2,78021,6970
+information technology,https://www.wikidata.org/wiki/Q11661,Male,18,4,doctorate,marketing,1,56309,7559
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,59,5,doctorate,management,1,90002,8123
+information technology,https://www.wikidata.org/wiki/Q11661,Male,34,3,college,marketing,4,91066,6257
+manager,https://www.wikidata.org/wiki/Q2462658,Male,32,3,master's degree,management,5,118088,7721
+software developer,https://www.wikidata.org/wiki/Q183888,Male,29,3,master's degree,operations management,2,92099,7246
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,46,4,college,government administration,4,116758,7744
+marketing,https://www.wikidata.org/wiki/Q39809,Female,49,5,high school,marketing,2,96500,8092
+manager,https://www.wikidata.org/wiki/Q2462658,Male,48,3,college,management,5,138851,6929
+marketing,https://www.wikidata.org/wiki/Q39809,Female,34,4,college,government administration,1,49632,7169
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,45,3,doctorate,management,3,76700,7242
+information technology,https://www.wikidata.org/wiki/Q11661,Male,58,4,college,management,5,131275,6997
+manager,https://www.wikidata.org/wiki/Q2462658,Male,21,2,doctorate,operations management,3,89648,6573
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,26,2,master's degree,government administration,5,100516,6737
+manager,https://www.wikidata.org/wiki/Q2462658,Male,20,2,doctorate,operations management,4,112854,6564
+software developer,https://www.wikidata.org/wiki/Q183888,Male,60,4,master's degree,marketing,5,155676,6586
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Male,57,4,college,marketing,4,135781,6042
+salesperson,https://www.wikidata.org/wiki/Q685433,Female,47,3,college,engineer,2,84935,6122
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Male,31,4,high school,engineer,2,66407,7522
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,56,4,doctorate,marketing,3,101249,7329
+manager,https://www.wikidata.org/wiki/Q2462658,Male,57,4,master's degree,government administration,4,143189,6321
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,63,5,doctorate,engineer,1,105800,7822
+software developer,https://www.wikidata.org/wiki/Q183888,Male,63,5,college,operations management,2,124871,7327
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,23,3,high school,marketing,3,83894,6922
+manager,https://www.wikidata.org/wiki/Q2462658,Female,45,2,high school,management,5,144146,6340
+marketing,https://www.wikidata.org/wiki/Q39809,Female,46,4,doctorate,marketing,2,69268,7106
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,63,5,high school,marketing,1,85948,7646
+software developer,https://www.wikidata.org/wiki/Q183888,Male,20,2,doctorate,engineer,4,92289,6643
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,45,4,high school,operations management,2,75397,6490
+software developer,https://www.wikidata.org/wiki/Q183888,Male,65,4,high school,engineer,1,102597,5937
+salesperson,https://www.wikidata.org/wiki/Q685433,Female,63,4,doctorate,engineer,3,127561,7552
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Male,26,3,high school,marketing,3,72945,7279
+software developer,https://www.wikidata.org/wiki/Q183888,Male,60,3,doctorate,management,5,145632,6439
+marketing,https://www.wikidata.org/wiki/Q39809,Female,36,3,master's degree,marketing,3,77223,5272
+manager,https://www.wikidata.org/wiki/Q2462658,Male,63,5,master's degree,operations management,1,130093,6416
+marketing,https://www.wikidata.org/wiki/Q39809,Male,33,3,doctorate,government administration,2,53220,5153
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,41,3,college,engineer,3,92080,6897
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,55,3,college,marketing,5,118762,6545
+salesperson,https://www.wikidata.org/wiki/Q685433,Female,21,2,college,operations management,5,85398,7113
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,31,3,college,operations management,1,75227,6027
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,41,3,master's degree,government administration,4,104314,6611
+manager,https://www.wikidata.org/wiki/Q2462658,Male,27,3,high school,operations management,1,83262,6884
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,55,3,master's degree,government administration,4,123172,5797
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,41,4,doctorate,government administration,1,67040,7412
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Male,33,3,college,government administration,1,77655,6581
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,46,3,college,government administration,3,107476,6182
+software developer,https://www.wikidata.org/wiki/Q183888,Male,45,4,master's degree,operations management,2,89811,6471
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,47,3,college,government administration,5,106893,7958
+software developer,https://www.wikidata.org/wiki/Q183888,Male,58,4,master's degree,engineer,5,154039,7304
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Male,64,4,high school,operations management,3,116774,6160
+software developer,https://www.wikidata.org/wiki/Q183888,Male,40,2,high school,management,2,98281,5646
+marketing,https://www.wikidata.org/wiki/Q39809,Female,18,3,high school,engineer,2,34208,6620
+software developer,https://www.wikidata.org/wiki/Q183888,Male,42,3,master's degree,engineer,5,121821,6499
+software developer,https://www.wikidata.org/wiki/Q183888,Male,30,2,master's degree,engineer,5,113122,6060
+software developer,https://www.wikidata.org/wiki/Q183888,Male,39,4,doctorate,management,1,92154,7642
+manager,https://www.wikidata.org/wiki/Q2462658,Male,31,3,doctorate,engineer,2,110643,7291
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,34,3,doctorate,government administration,1,82345,7211
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,32,3,doctorate,marketing,4,103908,8109
+marketing,https://www.wikidata.org/wiki/Q39809,Female,24,3,high school,engineer,3,49303,6615
+information technology,https://www.wikidata.org/wiki/Q11661,Female,46,4,high school,operations management,3,98456,7177
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Male,49,3,doctorate,operations management,4,94927,6274
+software developer,https://www.wikidata.org/wiki/Q183888,Male,30,2,college,government administration,5,76654,6696
+manager,https://www.wikidata.org/wiki/Q2462658,Male,46,4,master's degree,marketing,1,107859,6989
+manager,https://www.wikidata.org/wiki/Q2462658,Female,53,4,high school,operations management,3,129885,7314
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,62,5,master's degree,marketing,1,85702,6556
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,63,4,master's degree,operations management,1,97797,5239
+manager,https://www.wikidata.org/wiki/Q2462658,Male,18,1,master's degree,management,5,115567,4775
+salesperson,https://www.wikidata.org/wiki/Q685433,Female,30,3,high school,government administration,4,91566,6996
+salesperson,https://www.wikidata.org/wiki/Q685433,Female,61,3,doctorate,management,4,131608,6537
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,58,4,doctorate,government administration,3,118888,7438
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,55,4,college,marketing,2,75833,6942
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,36,3,college,engineer,2,65750,6177
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,65,4,college,management,4,123371,6931
+marketing,https://www.wikidata.org/wiki/Q39809,Female,49,4,master's degree,marketing,3,76806,6662
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Male,38,3,college,management,3,83774,7127
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,22,1,doctorate,operations management,5,114733,6290
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,22,3,doctorate,government administration,2,69320,6765
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,51,3,doctorate,operations management,4,110746,5947
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,61,4,master's degree,engineer,2,105632,6394
+manager,https://www.wikidata.org/wiki/Q2462658,Male,62,4,doctorate,engineer,1,117648,4765
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,21,1,doctorate,management,4,89170,6722
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,28,3,college,management,3,85986,8160
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,32,4,master's degree,marketing,3,78132,8035
+manager,https://www.wikidata.org/wiki/Q2462658,Male,57,4,master's degree,operations management,3,135073,6898
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,52,4,high school,operations management,1,78751,6258
+software developer,https://www.wikidata.org/wiki/Q183888,Male,64,5,high school,marketing,2,118231,7440
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,58,5,high school,operations management,1,86651,7250
+information technology,https://www.wikidata.org/wiki/Q11661,Female,36,3,doctorate,management,3,75518,6711
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,44,3,master's degree,management,3,114693,6832
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,39,3,master's degree,engineer,4,116875,5479
+information technology,https://www.wikidata.org/wiki/Q11661,Male,23,4,doctorate,government administration,1,64468,8113
+marketing,https://www.wikidata.org/wiki/Q39809,Male,40,2,doctorate,marketing,5,116834,5516
+marketing,https://www.wikidata.org/wiki/Q39809,Female,18,2,master's degree,management,5,75294,6496
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,63,3,college,management,5,127608,6558
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,43,3,college,marketing,5,116069,6432
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,50,3,high school,engineer,2,86122,6295
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Male,23,2,college,management,4,81988,7160
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,22,2,master's degree,marketing,2,68300,5953
+manager,https://www.wikidata.org/wiki/Q2462658,Male,60,4,college,marketing,2,148178,6777
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,50,3,doctorate,operations management,2,94590,5327
+salesperson,https://www.wikidata.org/wiki/Q685433,Female,33,2,college,engineer,4,87418,6430
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Male,25,3,college,government administration,1,68384,7443
+manager,https://www.wikidata.org/wiki/Q2462658,Male,48,3,doctorate,operations management,1,106056,4161
+software developer,https://www.wikidata.org/wiki/Q183888,Male,35,2,master's degree,management,3,110886,6228
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,37,2,master's degree,management,3,104082,5477
+information technology,https://www.wikidata.org/wiki/Q11661,Female,43,3,master's degree,management,4,94354,7052
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Male,53,3,doctorate,engineer,5,128669,6866
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,40,3,doctorate,marketing,3,88725,6243
+manager,https://www.wikidata.org/wiki/Q2462658,Male,56,3,master's degree,engineer,4,149771,5495
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,45,4,master's degree,management,2,98535,8001
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,57,4,doctorate,marketing,1,90713,6552
+information technology,https://www.wikidata.org/wiki/Q11661,Male,33,3,college,management,3,88749,7433
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,49,3,master's degree,operations management,5,126100,6336
+manager,https://www.wikidata.org/wiki/Q2462658,Male,23,3,college,marketing,3,110594,6753
+manager,https://www.wikidata.org/wiki/Q2462658,Male,60,4,college,management,3,157644,7213
+manager,https://www.wikidata.org/wiki/Q2462658,Female,41,3,doctorate,management,1,113009,6812
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,20,2,doctorate,engineer,4,105601,5943
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,56,4,high school,engineer,3,100769,6453
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Male,38,3,high school,government administration,2,82244,6020
+marketing,https://www.wikidata.org/wiki/Q39809,Female,55,4,high school,government administration,2,72030,5569
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,20,1,college,management,3,66203,5627
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,34,2,high school,management,3,67210,5662
+manager,https://www.wikidata.org/wiki/Q2462658,Female,32,2,doctorate,management,2,115383,5878
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,49,3,doctorate,engineer,4,120697,7205
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,29,3,doctorate,operations management,2,70311,6235
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,49,3,college,engineer,4,125770,7301
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Male,33,1,college,engineer,5,100465,5520
+software developer,https://www.wikidata.org/wiki/Q183888,Male,30,2,college,government administration,4,83264,6251
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Male,61,3,doctorate,engineer,4,126375,6630
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Male,25,3,college,engineer,1,43076,5829
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,37,2,college,marketing,5,97846,7198
+salesperson,https://www.wikidata.org/wiki/Q685433,Female,24,2,master's degree,management,3,76522,6900
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Male,42,3,doctorate,operations management,4,111726,5989
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,55,4,college,government administration,3,112188,6689
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,35,2,college,operations management,5,98959,6572
+salesperson,https://www.wikidata.org/wiki/Q685433,Female,35,2,college,management,4,87131,6356
+information technology,https://www.wikidata.org/wiki/Q11661,Male,40,3,college,government administration,3,77881,5569
+information technology,https://www.wikidata.org/wiki/Q11661,Male,36,3,master's degree,engineer,2,65225,6462
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Male,30,4,master's degree,operations management,1,78472,8439
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,58,4,college,operations management,4,126269,6490
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Male,61,3,high school,management,3,106233,5792
+information technology,https://www.wikidata.org/wiki/Q11661,Female,37,3,high school,marketing,2,56656,5914
+information technology,https://www.wikidata.org/wiki/Q11661,Female,42,3,high school,engineer,2,70157,6016
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,41,2,doctorate,engineer,2,98366,6398
+manager,https://www.wikidata.org/wiki/Q2462658,Male,59,4,college,engineer,2,127013,6124
+software developer,https://www.wikidata.org/wiki/Q183888,Male,53,3,high school,management,3,106146,6618
+manager,https://www.wikidata.org/wiki/Q2462658,Male,22,2,master's degree,operations management,4,90736,6219
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,44,3,doctorate,marketing,1,66611,5924
+manager,https://www.wikidata.org/wiki/Q2462658,Male,57,3,doctorate,operations management,5,150914,5982
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,30,2,master's degree,management,4,70559,6497
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,33,3,college,marketing,1,73798,6224
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,22,2,high school,marketing,3,69734,5383
+marketing,https://www.wikidata.org/wiki/Q39809,Female,52,3,high school,marketing,3,94763,5668
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,23,2,college,government administration,5,101534,6861
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,23,1,doctorate,management,5,91504,5136
+salesperson,https://www.wikidata.org/wiki/Q685433,Female,19,1,college,management,4,90426,5020
+manager,https://www.wikidata.org/wiki/Q2462658,Male,20,2,master's degree,operations management,3,100183,6363
+information technology,https://www.wikidata.org/wiki/Q11661,Female,62,4,college,operations management,2,99369,6746
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,40,3,college,operations management,1,55845,6616
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,26,3,college,government administration,2,48570,6604
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,56,3,master's degree,engineer,3,98165,5470
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,57,3,master's degree,operations management,3,113274,6186
+software developer,https://www.wikidata.org/wiki/Q183888,Male,23,2,master's degree,engineer,3,95754,6596
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,27,2,college,engineer,1,57915,4584
+manager,https://www.wikidata.org/wiki/Q2462658,Male,53,4,college,marketing,2,121506,6122
+manager,https://www.wikidata.org/wiki/Q2462658,Male,37,3,master's degree,management,1,121151,5934
+marketing,https://www.wikidata.org/wiki/Q39809,Female,46,3,college,management,3,86241,5814
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,40,2,master's degree,management,2,87682,4152
+software developer,https://www.wikidata.org/wiki/Q183888,Male,42,2,college,government administration,3,114029,6842
+information technology,https://www.wikidata.org/wiki/Q11661,Male,43,3,college,management,1,67323,4680
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,28,3,high school,management,2,68049,6660
+information technology,https://www.wikidata.org/wiki/Q11661,Male,39,3,high school,engineer,4,93335,5243
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,55,3,doctorate,operations management,2,100433,5090
+marketing,https://www.wikidata.org/wiki/Q39809,Female,62,3,doctorate,operations management,5,123242,5453
+salesperson,https://www.wikidata.org/wiki/Q685433,Female,32,2,doctorate,government administration,2,87585,6476
+information technology,https://www.wikidata.org/wiki/Q11661,Female,18,2,master's degree,marketing,1,45747,4890
+marketing,https://www.wikidata.org/wiki/Q39809,Female,41,3,high school,government administration,2,36972,7058
+salesperson,https://www.wikidata.org/wiki/Q685433,Female,29,3,high school,management,3,64754,7377
+information technology,https://www.wikidata.org/wiki/Q11661,Female,44,2,doctorate,operations management,5,132267,5679
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Male,53,3,doctorate,government administration,3,111043,5838
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Male,25,2,master's degree,engineer,1,58130,6327
+information technology,https://www.wikidata.org/wiki/Q11661,Male,27,3,doctorate,operations management,3,90542,7554
+manager,https://www.wikidata.org/wiki/Q2462658,Male,40,2,college,government administration,2,124891,5436
+marketing,https://www.wikidata.org/wiki/Q39809,Female,54,3,doctorate,engineer,5,112507,7460
+marketing,https://www.wikidata.org/wiki/Q39809,Female,64,4,college,marketing,5,100316,6010
+software developer,https://www.wikidata.org/wiki/Q183888,Male,63,3,doctorate,engineer,2,134757,5944
+manager,https://www.wikidata.org/wiki/Q2462658,Male,42,3,college,marketing,4,125339,6019
+information technology,https://www.wikidata.org/wiki/Q11661,Female,62,4,college,management,3,111120,6536
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,36,3,high school,operations management,3,76523,7122
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,50,3,college,operations management,2,91160,5863
+manager,https://www.wikidata.org/wiki/Q2462658,Male,28,3,college,marketing,2,105795,6179
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,18,2,high school,operations management,2,66935,6508
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,19,1,doctorate,management,3,75238,5308
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,55,2,master's degree,marketing,5,138365,5359
+software developer,https://www.wikidata.org/wiki/Q183888,Male,42,2,college,management,1,103978,5146
+information technology,https://www.wikidata.org/wiki/Q11661,Male,65,4,master's degree,marketing,5,165229,6506
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Male,54,2,master's degree,engineer,4,118322,5224
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,39,2,master's degree,operations management,5,106883,5831
+marketing,https://www.wikidata.org/wiki/Q39809,Female,45,2,high school,management,2,59006,5876
+manager,https://www.wikidata.org/wiki/Q2462658,Male,30,1,doctorate,engineer,4,125164,5888
+software developer,https://www.wikidata.org/wiki/Q183888,Male,53,4,high school,operations management,1,89225,5751
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Male,63,4,high school,marketing,2,101716,5881
+marketing,https://www.wikidata.org/wiki/Q39809,Female,45,3,master's degree,marketing,3,74305,7126
+marketing,https://www.wikidata.org/wiki/Q39809,Female,30,3,master's degree,government administration,1,38451,5562
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,48,1,high school,operations management,5,113465,3846
+salesperson,https://www.wikidata.org/wiki/Q685433,Female,27,2,college,operations management,2,66377,5803
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,31,3,doctorate,engineer,1,79142,5445
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,20,1,master's degree,operations management,4,55569,5236
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,60,4,master's degree,engineer,1,97240,5412
+manager,https://www.wikidata.org/wiki/Q2462658,Female,25,1,master's degree,management,5,119033,6381
+marketing,https://www.wikidata.org/wiki/Q39809,Female,65,3,master's degree,government administration,5,106315,5618
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Male,24,2,college,engineer,3,81301,5713
+software developer,https://www.wikidata.org/wiki/Q183888,Male,23,1,doctorate,management,2,79462,4673
+information technology,https://www.wikidata.org/wiki/Q11661,Female,28,1,doctorate,marketing,5,105598,5380
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,30,2,college,operations management,3,72497,6452
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,23,1,high school,management,4,78084,5598
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,50,3,master's degree,management,1,84803,5406
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,18,2,college,government administration,1,41603,6092
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,47,2,master's degree,operations management,2,78002,5175
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Male,56,3,master's degree,government administration,2,79274,4618
+information technology,https://www.wikidata.org/wiki/Q11661,Male,20,2,doctorate,management,1,49622,5452
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,62,3,college,management,3,129620,5608
+software developer,https://www.wikidata.org/wiki/Q183888,Male,36,2,high school,government administration,4,87848,5166
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Male,24,2,college,management,3,51906,6274
+salesperson,https://www.wikidata.org/wiki/Q685433,Female,44,2,high school,engineer,3,81866,5183
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,24,2,doctorate,engineer,3,71590,5845
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Male,19,2,high school,marketing,2,63928,4998
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Male,44,4,high school,government administration,4,83333,7113
+marketing,https://www.wikidata.org/wiki/Q39809,Male,49,3,high school,government administration,4,92797,5405
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,36,3,doctorate,operations management,1,93067,5103
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,22,2,high school,marketing,3,72422,5697
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Male,59,3,college,operations management,3,120159,4265
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,39,3,master's degree,operations management,3,91711,6775
+marketing,https://www.wikidata.org/wiki/Q39809,Female,50,3,master's degree,marketing,5,93805,6044
+marketing,https://www.wikidata.org/wiki/Q39809,Female,58,3,master's degree,operations management,5,109931,5878
+marketing,https://www.wikidata.org/wiki/Q39809,Female,42,2,college,government administration,5,88365,4668
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,58,4,master's degree,operations management,3,104744,6425
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,44,3,high school,government administration,1,79334,6505
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Male,41,2,master's degree,government administration,4,95795,4898
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,58,3,doctorate,engineer,1,98512,4548
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,33,2,high school,operations management,4,78910,5927
+manager,https://www.wikidata.org/wiki/Q2462658,Male,22,1,college,management,2,103156,6277
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Male,35,2,high school,government administration,5,92760,4826
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,42,1,doctorate,operations management,5,125574,5688
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,62,4,college,operations management,3,93742,6580
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,50,2,master's degree,engineer,5,124470,5454
+software developer,https://www.wikidata.org/wiki/Q183888,Male,51,2,master's degree,engineer,3,132323,4872
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,22,1,high school,marketing,4,70595,5234
+software developer,https://www.wikidata.org/wiki/Q183888,Male,32,2,college,operations management,1,71278,4701
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,33,2,high school,engineer,2,53855,4980
+information technology,https://www.wikidata.org/wiki/Q11661,Male,35,1,college,management,4,98423,3879
+software developer,https://www.wikidata.org/wiki/Q183888,Male,47,2,master's degree,operations management,4,126239,5396
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,53,2,master's degree,management,5,101133,4700
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Male,23,1,high school,government administration,4,92516,5866
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,49,3,college,government administration,3,93320,7236
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,45,1,high school,government administration,5,106963,5084
+information technology,https://www.wikidata.org/wiki/Q11661,Female,26,1,doctorate,marketing,5,111770,5345
+information technology,https://www.wikidata.org/wiki/Q11661,Male,33,2,master's degree,engineer,5,106584,5426
+marketing,https://www.wikidata.org/wiki/Q39809,Female,26,2,high school,operations management,3,57672,6476
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Male,50,3,master's degree,government administration,1,90612,5913
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,35,2,high school,engineer,5,97768,7233
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,31,2,doctorate,government administration,3,82790,5826
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,50,3,master's degree,government administration,1,76103,5173
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,38,3,master's degree,government administration,1,84628,5680
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,59,2,college,management,2,93441,5499
+marketing,https://www.wikidata.org/wiki/Q39809,Male,42,2,master's degree,management,5,110636,5239
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,55,3,doctorate,government administration,1,108366,5108
+manager,https://www.wikidata.org/wiki/Q2462658,Male,38,2,master's degree,management,3,135106,5066
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,55,2,doctorate,government administration,3,85453,5135
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,54,3,high school,management,3,100160,5562
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,48,2,college,government administration,3,79765,5329
+manager,https://www.wikidata.org/wiki/Q2462658,Male,48,2,doctorate,engineer,4,157169,5798
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,63,3,doctorate,engineer,3,129683,5754
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,20,1,college,management,2,76908,4756
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,53,3,high school,management,1,93696,5029
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Male,40,3,high school,marketing,2,88230,5512
+salesperson,https://www.wikidata.org/wiki/Q685433,Female,46,2,master's degree,management,2,83095,5284
+information technology,https://www.wikidata.org/wiki/Q11661,Female,26,2,college,marketing,3,81325,5647
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,62,2,doctorate,engineer,2,102106,5195
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,43,1,doctorate,engineer,1,80635,4322
+marketing,https://www.wikidata.org/wiki/Q39809,Female,32,2,college,marketing,3,73404,5038
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,44,3,high school,marketing,1,83674,4854
+information technology,https://www.wikidata.org/wiki/Q11661,Male,62,3,master's degree,engineer,4,118314,4892
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,57,2,master's degree,marketing,5,133741,4925
+software developer,https://www.wikidata.org/wiki/Q183888,Male,50,3,doctorate,marketing,1,119522,4650
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,40,2,high school,government administration,3,84592,4635
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,64,3,doctorate,marketing,2,121589,5133
+manager,https://www.wikidata.org/wiki/Q2462658,Female,28,1,high school,engineer,4,104329,4962
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Male,24,1,college,engineer,3,71371,5220
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,59,4,master's degree,marketing,1,96582,6350
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,62,3,doctorate,marketing,3,108778,4357
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Male,63,3,doctorate,management,4,128520,6151
+salesperson,https://www.wikidata.org/wiki/Q685433,Female,34,1,high school,management,5,102745,6303
+manager,https://www.wikidata.org/wiki/Q2462658,Female,62,4,master's degree,government administration,3,146008,6235
+marketing,https://www.wikidata.org/wiki/Q39809,Female,44,2,doctorate,management,2,68364,4076
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Male,31,2,high school,government administration,4,62753,5735
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,27,1,high school,government administration,5,96584,5293
+software developer,https://www.wikidata.org/wiki/Q183888,Male,32,1,college,engineer,5,128680,4677
+manager,https://www.wikidata.org/wiki/Q2462658,Male,55,2,college,management,5,152710,6107
+software developer,https://www.wikidata.org/wiki/Q183888,Male,36,1,high school,operations management,5,109136,4572
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,53,2,doctorate,operations management,2,102265,4760
+marketing,https://www.wikidata.org/wiki/Q39809,Female,33,1,high school,management,5,81249,4845
+information technology,https://www.wikidata.org/wiki/Q11661,Female,56,3,master's degree,management,2,101791,6083
+marketing,https://www.wikidata.org/wiki/Q39809,Female,62,4,college,marketing,1,77584,4524
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,36,1,master's degree,government administration,3,88175,5004
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,21,1,doctorate,engineer,2,65816,6817
+information technology,https://www.wikidata.org/wiki/Q11661,Male,33,2,master's degree,marketing,1,84878,5009
+marketing,https://www.wikidata.org/wiki/Q39809,Female,28,1,master's degree,engineer,5,73685,4439
+information technology,https://www.wikidata.org/wiki/Q11661,Female,27,1,master's degree,government administration,2,55560,4449
+software developer,https://www.wikidata.org/wiki/Q183888,Male,36,2,master's degree,government administration,2,94745,5930
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,43,2,doctorate,marketing,3,106452,5346
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,46,2,college,management,2,95505,4549
+software developer,https://www.wikidata.org/wiki/Q183888,Male,25,1,high school,engineer,4,103181,4566
+software developer,https://www.wikidata.org/wiki/Q183888,Male,40,2,master's degree,marketing,1,120096,4690
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,47,2,college,government administration,2,87575,4422
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,51,3,high school,management,2,98499,6274
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,60,2,doctorate,marketing,3,113140,4079
+manager,https://www.wikidata.org/wiki/Q2462658,Male,56,2,doctorate,government administration,4,152081,4621
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,40,1,master's degree,management,5,100505,4626
+information technology,https://www.wikidata.org/wiki/Q11661,Female,60,3,master's degree,management,2,104589,4536
+manager,https://www.wikidata.org/wiki/Q2462658,Male,36,2,master's degree,marketing,3,134450,5214
+information technology,https://www.wikidata.org/wiki/Q11661,Female,48,3,high school,management,1,61081,6337
+manager,https://www.wikidata.org/wiki/Q2462658,Male,37,2,doctorate,operations management,1,100819,5390
+software developer,https://www.wikidata.org/wiki/Q183888,Male,64,2,doctorate,marketing,5,157277,4844
+marketing,https://www.wikidata.org/wiki/Q39809,Female,51,2,high school,management,2,79237,4453
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Male,20,2,high school,marketing,2,68175,5698
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,61,2,college,management,4,108475,4489
+software developer,https://www.wikidata.org/wiki/Q183888,Male,65,3,high school,marketing,2,122624,4165
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,34,1,college,management,4,99942,5352
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,58,2,doctorate,engineer,2,108296,4708
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,45,2,master's degree,management,2,101273,3817
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,18,1,master's degree,government administration,3,59334,5729
+manager,https://www.wikidata.org/wiki/Q2462658,Male,43,1,doctorate,management,4,152625,4702
+information technology,https://www.wikidata.org/wiki/Q11661,Female,62,3,college,marketing,4,126370,6032
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,45,2,master's degree,government administration,5,122142,5435
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,19,1,high school,operations management,4,75919,5613
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,26,1,master's degree,operations management,3,90526,4191
+information technology,https://www.wikidata.org/wiki/Q11661,Female,47,2,doctorate,government administration,3,103416,5536
+manager,https://www.wikidata.org/wiki/Q2462658,Male,59,3,college,engineer,3,133910,5795
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,63,3,high school,marketing,1,104468,4466
+salesperson,https://www.wikidata.org/wiki/Q685433,Female,57,2,high school,management,4,117202,5068
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,51,1,doctorate,marketing,5,139141,4969
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,58,1,master's degree,management,4,134109,4184
+salesperson,https://www.wikidata.org/wiki/Q685433,Female,24,1,high school,government administration,2,66887,5014
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,41,1,college,operations management,5,77839,4458
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Male,21,1,high school,marketing,2,61018,5513
+information technology,https://www.wikidata.org/wiki/Q11661,Female,58,2,high school,marketing,4,124847,3100
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,33,2,doctorate,government administration,1,50758,5386
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,34,1,doctorate,operations management,3,75316,5861
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Male,54,3,doctorate,marketing,2,118093,4115
+software developer,https://www.wikidata.org/wiki/Q183888,Male,31,1,college,operations management,4,106503,5225
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,55,2,college,government administration,3,111502,4413
+salesperson,https://www.wikidata.org/wiki/Q685433,Female,47,1,doctorate,engineer,4,116642,4621
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,55,3,college,operations management,1,84683,4476
+information technology,https://www.wikidata.org/wiki/Q11661,Female,45,2,doctorate,marketing,4,113283,5404
+marketing,https://www.wikidata.org/wiki/Q39809,Female,48,2,high school,government administration,4,86538,4212
+marketing,https://www.wikidata.org/wiki/Q39809,Female,62,3,master's degree,engineer,2,77742,5430
+software developer,https://www.wikidata.org/wiki/Q183888,Male,22,1,college,marketing,1,67913,4045
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,54,2,college,marketing,2,114171,3768
+manager,https://www.wikidata.org/wiki/Q2462658,Male,47,1,master's degree,engineer,4,155826,4964
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,63,2,college,operations management,4,106204,4534
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,38,1,high school,government administration,4,111041,3727
+software developer,https://www.wikidata.org/wiki/Q183888,Male,62,2,doctorate,engineer,3,138184,4664
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,63,3,college,marketing,2,95795,5723
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,60,3,high school,government administration,3,106798,5201
+marketing,https://www.wikidata.org/wiki/Q39809,Female,65,3,high school,engineer,3,98575,5410
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Male,37,2,master's degree,government administration,1,82343,5232
+software developer,https://www.wikidata.org/wiki/Q183888,Female,57,1,college,engineer,3,117131,2324
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,26,2,high school,marketing,2,78625,4073
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,27,2,doctorate,government administration,4,99134,6255
+marketing,https://www.wikidata.org/wiki/Q39809,Female,20,2,college,government administration,2,38613,6079
+marketing,https://www.wikidata.org/wiki/Q39809,Female,26,2,college,operations management,1,62866,5114
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,44,1,master's degree,engineer,5,107818,5281
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,47,1,high school,operations management,5,108731,4793
+manager,https://www.wikidata.org/wiki/Q2462658,Male,21,1,college,management,2,114621,3927
+marketing,https://www.wikidata.org/wiki/Q39809,Female,23,1,high school,marketing,2,47739,4829
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,45,1,master's degree,operations management,3,104290,3474
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,65,4,master's degree,marketing,1,111403,5078
+information technology,https://www.wikidata.org/wiki/Q11661,Male,52,2,college,government administration,5,93802,5404
+manager,https://www.wikidata.org/wiki/Q2462658,Male,30,1,high school,marketing,5,138163,3415
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,50,2,master's degree,operations management,3,115613,3881
+salesperson,https://www.wikidata.org/wiki/Q685433,Female,18,1,master's degree,engineer,1,64920,4967
+software developer,https://www.wikidata.org/wiki/Q183888,Female,36,1,doctorate,management,1,79177,3661
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Male,25,1,college,operations management,1,64994,4310
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Male,53,3,doctorate,marketing,2,100941,5992
+manager,https://www.wikidata.org/wiki/Q2462658,Male,55,1,high school,management,5,163208,4095
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,24,1,doctorate,operations management,2,51837,4472
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,56,2,master's degree,management,4,114048,5097
+manager,https://www.wikidata.org/wiki/Q2462658,Female,59,2,high school,management,2,136215,3603
+marketing,https://www.wikidata.org/wiki/Q39809,Female,55,3,high school,government administration,1,63327,4066
+software developer,https://www.wikidata.org/wiki/Q183888,Male,64,2,doctorate,engineer,4,139068,4126
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,63,2,master's degree,engineer,3,136209,3910
+software developer,https://www.wikidata.org/wiki/Q183888,Male,55,2,doctorate,management,3,121910,4494
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,43,2,doctorate,management,2,82057,5268
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,51,2,high school,engineer,1,96023,4148
+marketing,https://www.wikidata.org/wiki/Q39809,Female,31,1,high school,marketing,3,52578,5538
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,61,2,college,government administration,4,114436,4249
+marketing,https://www.wikidata.org/wiki/Q39809,Female,56,2,master's degree,marketing,4,99543,4442
+salesperson,https://www.wikidata.org/wiki/Q685433,Female,41,2,college,marketing,1,60983,5022
+software developer,https://www.wikidata.org/wiki/Q183888,Male,49,3,master's degree,government administration,1,82277,5460
+marketing,https://www.wikidata.org/wiki/Q39809,Female,23,1,college,marketing,2,55885,3795
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,29,1,master's degree,operations management,3,73142,4712
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,53,2,high school,operations management,4,107065,3652
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,61,2,doctorate,engineer,2,107064,4202
+marketing,https://www.wikidata.org/wiki/Q39809,Female,56,2,high school,operations management,5,107370,4916
+marketing,https://www.wikidata.org/wiki/Q39809,Female,25,1,high school,marketing,1,39741,4981
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,64,2,high school,management,3,120579,4687
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,55,2,high school,engineer,3,103242,4495
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,42,1,master's degree,marketing,5,120112,5070
+salesperson,https://www.wikidata.org/wiki/Q685433,Female,61,2,high school,marketing,2,83308,3653
+marketing,https://www.wikidata.org/wiki/Q39809,Female,26,1,high school,management,1,36585,4373
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,59,2,college,engineer,4,115344,4827
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,36,2,high school,management,1,49553,5784
+information technology,https://www.wikidata.org/wiki/Q11661,Female,54,2,master's degree,government administration,3,96982,4750
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,24,1,high school,management,4,80030,5481
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Male,58,2,college,marketing,4,110157,4275
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,32,1,high school,government administration,4,84047,4683
+marketing,https://www.wikidata.org/wiki/Q39809,Male,47,2,doctorate,marketing,3,93054,4243
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,53,2,master's degree,engineer,2,84764,4409
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,61,1,master's degree,management,3,120277,4617
+marketing,https://www.wikidata.org/wiki/Q39809,Female,56,2,high school,marketing,3,81661,4965
+manager,https://www.wikidata.org/wiki/Q2462658,Female,45,1,high school,engineer,5,149893,5120
+software developer,https://www.wikidata.org/wiki/Q183888,Male,45,2,high school,management,1,81515,5001
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Male,55,2,master's degree,operations management,3,95898,4309
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Male,42,2,doctorate,operations management,3,90000,4774
+manager,https://www.wikidata.org/wiki/Q2462658,Male,60,3,high school,management,2,111896,5597
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Male,53,1,master's degree,engineer,5,130082,4734
+salesperson,https://www.wikidata.org/wiki/Q685433,Female,60,2,doctorate,engineer,5,130417,4694
+marketing,https://www.wikidata.org/wiki/Q39809,Female,34,1,college,engineer,2,38855,4503
+software developer,https://www.wikidata.org/wiki/Q183888,Male,25,1,high school,government administration,4,81057,5259
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,41,1,high school,management,5,117215,4322
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,49,1,high school,government administration,4,96232,3697
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,64,1,doctorate,operations management,5,141186,3415
+manager,https://www.wikidata.org/wiki/Q2462658,Male,52,2,high school,operations management,2,114943,3438
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,43,1,doctorate,government administration,4,107640,3896
+manager,https://www.wikidata.org/wiki/Q2462658,Male,31,2,college,operations management,1,80259,4791
+marketing,https://www.wikidata.org/wiki/Q39809,Female,48,1,college,operations management,5,86563,4415
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,20,1,high school,operations management,2,61589,3990
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Male,35,1,high school,government administration,2,74829,4263
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,44,1,master's degree,government administration,2,72248,3634
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,49,2,high school,operations management,3,91342,4516
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,49,2,master's degree,operations management,2,101140,4851
+marketing,https://www.wikidata.org/wiki/Q39809,Male,51,2,doctorate,marketing,1,62600,4300
+software developer,https://www.wikidata.org/wiki/Q183888,Male,21,1,high school,engineer,2,65313,4685
+manager,https://www.wikidata.org/wiki/Q2462658,Male,41,1,college,government administration,5,123153,4111
+information technology,https://www.wikidata.org/wiki/Q11661,Male,27,1,high school,management,3,57500,3665
+manager,https://www.wikidata.org/wiki/Q2462658,Male,37,1,doctorate,government administration,3,115604,4098
+software developer,https://www.wikidata.org/wiki/Q183888,Male,18,1,high school,marketing,1,55555,4390
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,58,1,doctorate,engineer,5,124166,3875
+information technology,https://www.wikidata.org/wiki/Q11661,Male,50,2,master's degree,management,3,101050,3879
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,56,1,college,engineer,5,125828,3961
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,45,1,high school,management,3,75017,5576
+marketing,https://www.wikidata.org/wiki/Q39809,Female,40,1,master's degree,engineer,4,100415,3871
+manager,https://www.wikidata.org/wiki/Q2462658,Female,57,1,master's degree,operations management,3,145095,3889
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,63,2,high school,government administration,5,115641,4339
+software developer,https://www.wikidata.org/wiki/Q183888,Male,59,1,college,marketing,5,160460,2930
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,45,2,high school,government administration,2,85947,3909
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,48,1,college,engineer,5,119058,4037
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Female,56,1,college,government administration,4,106722,4044
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,41,2,doctorate,operations management,3,91129,4825
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,59,1,doctorate,marketing,4,135512,3955
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,49,2,college,operations management,1,92891,3578
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,64,3,high school,government administration,3,124151,3392
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,58,1,high school,marketing,5,141005,3384
+manager,https://www.wikidata.org/wiki/Q2462658,Male,36,1,high school,operations management,2,115742,3661
+information technology,https://www.wikidata.org/wiki/Q11661,Male,31,1,master's degree,marketing,2,93358,3223
+information technology,https://www.wikidata.org/wiki/Q11661,Female,44,1,high school,marketing,5,131411,3084
+salesperson,https://www.wikidata.org/wiki/Q685433,Female,61,2,college,marketing,1,96900,4157
+information technology,https://www.wikidata.org/wiki/Q11661,Male,59,3,master's degree,marketing,2,98995,4596
+information technology,https://www.wikidata.org/wiki/Q11661,Male,57,3,high school,marketing,3,109645,5472
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,39,2,college,marketing,1,61609,3738
+marketing,https://www.wikidata.org/wiki/Q39809,Female,56,2,high school,engineer,3,88820,4289
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,61,1,master's degree,government administration,5,122352,3590
+marketing,https://www.wikidata.org/wiki/Q39809,Female,53,1,master's degree,management,4,112489,4237
+software developer,https://www.wikidata.org/wiki/Q183888,Male,29,1,high school,marketing,1,86650,3518
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,62,3,high school,operations management,2,101284,4993
+manager,https://www.wikidata.org/wiki/Q2462658,Male,41,1,master's degree,marketing,2,119794,3712
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,58,2,master's degree,operations management,1,96609,3044
+marketing,https://www.wikidata.org/wiki/Q39809,Female,38,1,doctorate,engineer,1,53839,3270
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,29,1,master's degree,operations management,2,84725,3274
+information technology,https://www.wikidata.org/wiki/Q11661,Female,57,2,high school,government administration,1,64807,3887
+information technology,https://www.wikidata.org/wiki/Q11661,Female,28,1,high school,management,1,41151,4296
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,48,1,college,government administration,4,114031,4510
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Male,33,1,high school,management,1,59493,3955
+manager,https://www.wikidata.org/wiki/Q2462658,Female,42,1,high school,management,2,119893,3721
+manager,https://www.wikidata.org/wiki/Q2462658,Male,60,2,college,marketing,1,131980,3841
+salesperson,https://www.wikidata.org/wiki/Q685433,Female,52,1,high school,marketing,3,94154,3964
+marketing,https://www.wikidata.org/wiki/Q39809,Female,60,1,college,management,4,114906,4766
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,63,1,master's degree,management,4,115981,2661
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,37,1,doctorate,government administration,2,78836,3588
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Male,64,2,master's degree,operations management,2,112719,3382
+marketing,https://www.wikidata.org/wiki/Q39809,Female,59,1,master's degree,marketing,3,93018,2730
+marketing,https://www.wikidata.org/wiki/Q39809,Female,55,2,college,marketing,2,69928,4811
+software developer,https://www.wikidata.org/wiki/Q183888,Female,57,2,high school,engineer,1,104623,3791
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Male,55,2,college,government administration,2,103328,4543
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,47,2,high school,management,1,68643,4674
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,33,1,high school,marketing,1,63914,3521
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,45,2,high school,engineer,1,67296,4780
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,44,1,college,marketing,3,90474,3530
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,22,1,high school,government administration,1,60026,4605
+marketing,https://www.wikidata.org/wiki/Q39809,Female,41,1,doctorate,management,5,108587,4275
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,61,1,master's degree,engineer,4,139042,2982
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Male,65,1,high school,operations management,5,116803,3431
+salesperson,https://www.wikidata.org/wiki/Q685433,Female,57,1,master's degree,operations management,3,101423,3641
+software developer,https://www.wikidata.org/wiki/Q183888,Male,36,1,master's degree,operations management,1,86375,3368
+information technology,https://www.wikidata.org/wiki/Q11661,Male,31,1,college,operations management,1,49449,4149
+marketing,https://www.wikidata.org/wiki/Q39809,Female,56,2,high school,marketing,3,95995,4045
+software developer,https://www.wikidata.org/wiki/Q183888,Male,51,1,college,management,2,118282,3599
+information technology,https://www.wikidata.org/wiki/Q11661,Female,47,1,doctorate,operations management,3,99472,3943
+manager,https://www.wikidata.org/wiki/Q2462658,Female,55,1,high school,government administration,3,135638,2824
+information technology,https://www.wikidata.org/wiki/Q11661,Male,50,1,college,operations management,3,85648,2728
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,58,1,doctorate,management,4,121457,4723
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,57,1,doctorate,operations management,2,114141,3746
+manager,https://www.wikidata.org/wiki/Q2462658,Male,58,1,doctorate,management,4,179726,4284
+marketing,https://www.wikidata.org/wiki/Q39809,Female,64,1,college,government administration,5,107572,3107
+salesperson,https://www.wikidata.org/wiki/Q685433,Female,65,2,doctorate,marketing,5,142505,4214
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,43,1,doctorate,marketing,4,108719,4143
+information technology,https://www.wikidata.org/wiki/Q11661,Male,36,1,high school,marketing,4,109832,3528
+software developer,https://www.wikidata.org/wiki/Q183888,Male,60,1,doctorate,government administration,4,127250,4263
+salesperson,https://www.wikidata.org/wiki/Q685433,Female,50,1,master's degree,marketing,3,106279,3892
+software developer,https://www.wikidata.org/wiki/Q183888,Male,37,1,high school,marketing,1,81547,3510
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,56,1,master's degree,government administration,2,95798,2530
+manager,https://www.wikidata.org/wiki/Q2462658,Female,47,1,high school,management,3,106916,3959
+manager,https://www.wikidata.org/wiki/Q2462658,Male,59,2,doctorate,government administration,1,124782,4618
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Male,53,1,college,operations management,4,126256,3463
+information technology,https://www.wikidata.org/wiki/Q11661,Female,59,1,doctorate,engineer,3,92257,3908
+software developer,https://www.wikidata.org/wiki/Q183888,Male,62,1,high school,marketing,3,124660,2200
+information technology,https://www.wikidata.org/wiki/Q11661,Female,32,2,high school,engineer,1,59377,5236
+marketing,https://www.wikidata.org/wiki/Q39809,Female,38,1,doctorate,engineer,2,76726,4204
+information technology,https://www.wikidata.org/wiki/Q11661,Female,54,1,high school,engineer,5,112502,3988
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,65,2,master's degree,marketing,2,128730,3247
+manager,https://www.wikidata.org/wiki/Q2462658,Male,61,2,college,marketing,1,136836,4070
+information technology,https://www.wikidata.org/wiki/Q11661,Male,51,1,high school,engineer,3,89272,2600
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,62,1,high school,operations management,3,101515,2251
+software developer,https://www.wikidata.org/wiki/Q183888,Male,36,1,master's degree,operations management,1,93855,4099
+graphic designer,https://www.wikidata.org/wiki/Q627325,Male,30,1,college,operations management,2,36642,4388
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,60,1,college,operations management,3,112604,3366
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,49,1,doctorate,engineer,1,67089,3078
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,51,1,doctorate,management,2,97789,3536
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,62,1,doctorate,government administration,3,123333,3353
+information technology,https://www.wikidata.org/wiki/Q11661,Male,62,1,doctorate,management,2,105771,2978
+marketing,https://www.wikidata.org/wiki/Q39809,Female,46,1,college,government administration,1,54945,2991
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,65,1,doctorate,operations management,2,121239,3078
+data scientist,https://www.wikidata.org/wiki/Q29169143,Female,64,2,high school,marketing,1,87314,3688
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,65,1,doctorate,operations management,3,124530,3647
+vehicle operator,https://www.wikidata.org/wiki/Q23640580,Female,45,1,college,marketing,2,67150,3255
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,39,1,college,engineer,4,99643,3789
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,54,1,college,government administration,3,92468,3242
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,47,1,college,operations management,2,63300,3655
+information technology,https://www.wikidata.org/wiki/Q11661,Male,55,2,master's degree,operations management,1,91447,3196
+marketing,https://www.wikidata.org/wiki/Q39809,Female,58,2,high school,operations management,1,60271,3927
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Male,34,1,master's degree,operations management,1,45915,4765
+marketing,https://www.wikidata.org/wiki/Q39809,Female,53,1,master's degree,operations management,1,66028,3745
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,57,1,doctorate,government administration,5,113031,3409
+software developer,https://www.wikidata.org/wiki/Q183888,Male,62,1,high school,marketing,3,132815,3367
+manager,https://www.wikidata.org/wiki/Q2462658,Male,52,1,high school,management,1,110078,1703
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,57,1,master's degree,marketing,3,106918,3180
+software developer,https://www.wikidata.org/wiki/Q183888,Male,60,1,high school,government administration,3,106045,3079
+warehouse worker,https://www.wikidata.org/wiki/Q92204276,Male,65,1,high school,operations management,2,107479,2051
+software developer,https://www.wikidata.org/wiki/Q183888,Male,64,1,master's degree,marketing,1,109606,2193
+marketing,https://www.wikidata.org/wiki/Q39809,Female,44,1,high school,engineer,3,91300,3680
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,56,1,high school,management,1,88195,2375
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,54,1,master's degree,operations management,2,90999,2963
+salesperson,https://www.wikidata.org/wiki/Q685433,Female,58,1,college,operations management,3,86795,3453
+information technology,https://www.wikidata.org/wiki/Q11661,Female,59,1,college,marketing,3,110627,2041
+marketing,https://www.wikidata.org/wiki/Q39809,Female,52,1,doctorate,marketing,3,97696,3888
+information technology,https://www.wikidata.org/wiki/Q11661,Male,64,1,master's degree,marketing,1,92950,2125
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,56,1,high school,operations management,1,82164,2611
+software developer,https://www.wikidata.org/wiki/Q183888,Male,62,1,high school,management,3,119069,2788
+marketing,https://www.wikidata.org/wiki/Q39809,Female,59,1,college,engineer,1,62738,2656
+information technology,https://www.wikidata.org/wiki/Q11661,Female,53,1,high school,government administration,2,112169,2763
+manager,https://www.wikidata.org/wiki/Q2462658,Male,55,1,high school,government administration,1,120574,2683
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,54,1,college,marketing,2,97311,3083
+marketing,https://www.wikidata.org/wiki/Q39809,Female,59,1,high school,operations management,3,98796,3042
+salesperson,https://www.wikidata.org/wiki/Q685433,Male,62,1,master's degree,government administration,2,102593,1823
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Female,65,1,high school,government administration,2,96665,2645
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,61,1,master's degree,engineer,1,91030,3318
+information technology,https://www.wikidata.org/wiki/Q11661,Female,65,1,master's degree,government administration,1,106945,2041
+graphic designer,https://www.wikidata.org/wiki/Q627325,Female,63,1,college,government administration,2,81545,3418
+marketing,https://www.wikidata.org/wiki/Q39809,Female,65,1,master's degree,government administration,1,80789,1884
+marketing,https://www.wikidata.org/wiki/Q39809,Female,64,1,doctorate,government administration,2,85253,2777
+marketing,https://www.wikidata.org/wiki/Q39809,Female,61,1,high school,government administration,1,62644,3270
+data scientist,https://www.wikidata.org/wiki/Q29169143,Male,57,1,master's degree,marketing,2,108977,3567
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,48,1,high school,operations management,1,92347,2724
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,65,2,high school,government administration,1,97376,2225
+financial analyst,https://www.wikidata.org/wiki/Q1416279,Male,60,1,doctorate,marketing,2,123108,2244
