@@ -1,0 +1,54 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix ldp: <http://www.w3.org/ns/ldp#> .
+
+<http://localhost:8080> a <https://w3id.org/fdp/fdp-o#MetadataService>, dcat:DataService,
+    dcat:Resource, <https://w3id.org/fdp/fdp-o#FAIRDataPoint>;
+  dcterms:accessRights <http://localhost:8080#accessRights>;
+  dcterms:conformsTo <http://localhost:8080/profile/77aaad6a-0136-4c6e-88b9-07ffccd0ee4c>,
+    <http://localhost:8080/profile/77aaad6a-0136-4c6e-88b9-07ffccd0ee4c>;
+  dcterms:description "This dataset is taken from the website \"Glassdoor\" where the dataset contains information regarding the employee's remuneration received with respect to their role, department, education, seniority, performance evaluation and particularly gender as the data was collected with the gender pay gap in mind.";
+  dcterms:language <http://id.loc.gov/vocabulary/iso639-1/en>;
+  dcterms:license <http://purl.org/NET/rdflicense/cc-zero1.0>;
+  dcterms:publisher <http://localhost:8080#publisher>;
+  dcterms:title "FAIR Data Point Group 17 : Glassdoor Employee Dataset";
+  <http://www.re3data.org/schema/3-0#repositoryIdentifier> <http://localhost:8080#identifier>;
+  dcat:endpointURL <http://localhost:8080>, <http://localhost:8080>;
+  dcat:version "1.0";
+  <https://w3id.org/fdp/fdp-o#fdpSoftwareVersion> "FDP:v1.18.1~8a22d07", "FDP:v1.18.1~8a22d07";
+  <https://w3id.org/fdp/fdp-o#metadataCatalog> <http://localhost:8080/catalog/40f0485c-5da5-4222-84b0-88e90caa6432>;
+  <https://w3id.org/fdp/fdp-o#metadataIdentifier> <http://localhost:8080#identifier>;
+  <http://www.w3.org/2000/01/rdf-schema#label> "FAIR Data Point Group 17 : Glassdoor Employee Dataset";
+  <http://semanticscience.org/resource/SIO_000628> <http://localhost:8080/metrics/445c0a70d1e214e545b261559e2842f4>,
+    <http://localhost:8080/metrics/5d27e854a9e78eb3f663331cd47cdc13>;
+  <https://w3id.org/fdp/fdp-o#metadataIssued> "2025-10-16T20:32:06.190530499Z"^^xsd:dateTime;
+  <https://w3id.org/fdp/fdp-o#metadataModified> "2025-10-23T13:14:04.006980301Z"^^xsd:dateTime .
+
+<http://localhost:8080/catalog/> a ldp:DirectContainer, ldp:DirectContainer;
+  dcterms:title "Catalogs", "Catalogs";
+  ldp:contains <http://localhost:8080/catalog/40f0485c-5da5-4222-84b0-88e90caa6432>,
+    <http://localhost:8080/catalog/40f0485c-5da5-4222-84b0-88e90caa6432>;
+  ldp:hasMemberRelation <https://w3id.org/fdp/fdp-o#metadataCatalog>, <https://w3id.org/fdp/fdp-o#metadataCatalog>;
+  ldp:membershipResource <http://localhost:8080>, <http://localhost:8080> .
+
+<http://localhost:8080/profile/77aaad6a-0136-4c6e-88b9-07ffccd0ee4c> <http://www.w3.org/2000/01/rdf-schema#label>
+    "FAIR Data Point Profile", "FAIR Data Point Profile" .
+
+<http://localhost:8080#accessRights> a dcterms:RightsStatement;
+  dcterms:description "This resource has no access restriction" .
+
+<http://localhost:8080#publisher> a foaf:Agent;
+  foaf:name "Default Publisher" .
+
+<http://localhost:8080#identifier> a <http://purl.org/spar/datacite/Identifier>;
+  dcterms:identifier "http://localhost:8080" .
+
+<http://localhost:8080/metrics/445c0a70d1e214e545b261559e2842f4> <http://semanticscience.org/resource/SIO_000332>
+    <https://www.ietf.org/rfc/rfc3986.txt>;
+  <http://semanticscience.org/resource/SIO_000628> <https://www.ietf.org/rfc/rfc3986.txt> .
+
+<http://localhost:8080/metrics/5d27e854a9e78eb3f663331cd47cdc13> <http://semanticscience.org/resource/SIO_000332>
+    <https://www.wikidata.org/wiki/Q8777>;
+  <http://semanticscience.org/resource/SIO_000628> <https://www.wikidata.org/wiki/Q8777> .
